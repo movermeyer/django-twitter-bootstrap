@@ -1,8 +1,8 @@
-.. image:: https://pypip.in/v/django-twitter-bootstrap/badge.png
+.. image:: https://img.shields.io/pypi/v/django-twitter-bootstrap.svg
     :target: https://pypi.python.org/pypi/django-twitter-bootstrap/
     :alt: Latest Version
 
-.. image:: https://pypip.in/d/django-twitter-bootstrap/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-twitter-bootstrap.svg
     :target: https://pypi.python.org/pypi/django-twitter-bootstrap/
     :alt: Downloads
 
